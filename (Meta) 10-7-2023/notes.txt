@@ -2,6 +2,6 @@ solutions 1a and 1b work
 
 2b my solution would have required a dyanimc programming implementatiom to search the best way to factor the multiples so that it was under 41 with the least amount of values.
 
-3 required a bitwise operations that I still haven't learned yet
+3 was a parse that I didn't think I had the runtime to do but turns out the runtime worked.
 
 4-5 are just too hard for my current skill level 
